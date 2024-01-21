@@ -92,14 +92,14 @@
   type: nested_list
   contents:
     - title: Deep Face Analysis
-      items: 
-      	- identity
+      items:
+        - identity
         - geometry
         - texture
     - title: Open-world Learning
       items:
-        - large scale
-        - label noise 
-        - long tail 
         - multi modality
+        - large scale
+        - label noise
+        - long tail
         - cross domain
