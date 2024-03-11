@@ -7,7 +7,7 @@ description: Computer Vision Researcher
 profile:
   align: right
   image: pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   address: #>
     #<p>London, UK</p>
 
