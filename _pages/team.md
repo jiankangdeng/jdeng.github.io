@@ -5,7 +5,7 @@ permalink: /team/
 description:
 nav: true
 nav_order: 2
-display_categories: [Research Scientist, Research Intern, Past Member]
+display_categories: [Research Scientist, Research Intern, Past Researcher, Past Intern]
 horizontal: true
 ---
 
