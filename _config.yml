@@ -135,6 +135,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  team:
+    output: true
+    permalink: /team/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -299,6 +302,8 @@ enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
+enable_team_categories:  true   # enables categorization of teams into
+                                   # multiple categories                       
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 

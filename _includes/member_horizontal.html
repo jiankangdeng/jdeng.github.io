@@ -1,0 +1,19 @@
+<div class="card-item col">
+  {% if member.redirect -%}
+  <a href="{{ member.redirect }}">
+  {%- else -%}
+  <a href="{{ member.homepage | relative_url }}">
+  {%- endif %}
+    <div class="card hoverable">
+      {%- if member.img %}
+      {%- include figure.html
+        path=member.img
+        alt="member thumbnail" -%}
+      {%- endif %}
+      <div class="card-body">
+        <h5 class="card-title">{{ member.name }}</h5>
+        <p class="card-text">{{ member.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>
