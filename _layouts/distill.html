@@ -101,7 +101,7 @@
     <!-- Footer -->
     {%- include footer.html %}
 
-    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+    <d-bibliography src="{{ page.bibliography | prepend: '/assets/' | relative_url }}"></d-bibliography>
     
     {% include scripts/bootstrap.html %}
     {% include scripts/analytics.html %}
