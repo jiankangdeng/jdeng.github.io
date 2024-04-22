@@ -3,7 +3,7 @@ layout: page
 name: Rolandos Alexandros Potamias
 description: 3D Vision
 img: assets/img/members/RolandosAlexandrosPotamias.jpeg
-homepage: https://scholar.google.gr/citations?user=LteFCZsAAAAJ&hl=en
-importance: 5
+homepage: https://rolpotamias.github.io/
+importance: Potamias
 category: Researcher
 ---
