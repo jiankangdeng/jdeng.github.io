@@ -4,6 +4,6 @@ name: Konstantinos Alexandridis
 description: Long-tailed Learning
 img: assets/img/members/KonstantinosAlexandridis.png
 homepage: https://kostas1515.github.io/
-importance: 21
+importance: Alexandridis
 category: Intern
 ---

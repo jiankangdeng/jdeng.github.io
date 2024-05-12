@@ -4,6 +4,6 @@ name: Kam Woh Ng
 description: Image Generation
 img: assets/img/members/KamWohNg.jpg
 homepage: https://scholar.google.com/citations?user=HxEQkLoAAAAJ&hl=en
-importance: 23
+importance: Ng
 category: Intern
 ---
