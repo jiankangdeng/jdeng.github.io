@@ -5,5 +5,5 @@ description: Long-tailed Learning
 img: assets/img/members/KonstantinosAlexandridis.png
 homepage: https://kostas1515.github.io/
 importance: Alexandridis
-category: Intern
+category: Researcher
 ---
