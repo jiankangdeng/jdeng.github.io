@@ -1,4 +1,12 @@
 github_repos:
+  - preddy5/G3DR
+  - roymiles/vkd
+  - ZPDu/DAI-Net
+  - deepglint/ALIP
+  - deepglint/unicom
+  - BrandonHanx/PoCoLD
+  - FrancescaBabiloni/adaptive_spiral
+  - DanJun6737/TransFace
+  - guanxiongsun/STPN
+  - ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios
   - deepinsight/insightface
-  - grigorisg9gr/polynomial_nets
-  - jiankangdeng/MenpoBenchmark
