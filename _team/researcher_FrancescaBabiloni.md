@@ -3,7 +3,7 @@ layout: page
 name: Francesca Babiloni
 description: Generative Modelling
 img: assets/img/members/FrancescaBabiloni.jpeg
-homepage: https://dblp.org/pid/169/4678.html
+homepage: https://francescababiloni.github.io/
 importance: Babiloni
 category: Researcher
 ---
