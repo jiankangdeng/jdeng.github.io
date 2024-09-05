@@ -24,6 +24,5 @@ My doctoral research focused on deep face analysis and modeling, encompassing ef
 <a href="https://scholar.google.com/citations?user=Z_UoQFsAAAAJ&hl=en" target="_blank" style="margin-right: 15px"><i class="ai ai-google-scholar ai-lg"></i> Google Scholar</a>
 <a href="https://github.com/jiankangdeng" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
 <a href="https://twitter.com/jiankangdeng" target="_blank" style="margin-right: 15px"><i class="fab fa-twitter fa-lg"></i> Twitter</a>
-<a href="https://www.linkedin.com/in/jiankangdeng" target="_blank" style="margin-right: 15px"><i class="fab fa-linkedin fa-lg"></i> LinkedIn</a>
 <a href="mailto:jiankangdeng@gmail.com" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
 
