@@ -1,4 +1,6 @@
 github_repos:
+  - roymiles/VeLoRA
+  - james-oldfield/muMoE
   - foivospar/Arc2Face
   - eververas/3DGazeNet
   - kostas1515/AGLU
